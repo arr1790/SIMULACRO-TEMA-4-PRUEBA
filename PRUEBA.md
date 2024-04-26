@@ -4,23 +4,23 @@
 *24/04/2024*
 
 ## EJERCICIO1
-![ejercicio1](img/1.png)
+![ejercicio1](img/p1.png)
 
 ## EJERCICIO2
-![ejercicio2](img/2.png)
+![ejercicio2](img/p2.png)
 
 ## EJERCICIO3
-![ejercicio3](img/3.png)
+![ejercicio3](img/p3.png)
 
 ## EJERCICIO4
-![ejercicio4](img/4.png)
+![ejercicio4](img/p4.png)
 
 ## EJERCICIO5
-![ejercicio5](img/5.png)
+![ejercicio5](img/p5.png)
 
 ## EJERCICIO6
-![ejercicio6](img/6.png)
+![ejercicio6](img/p6.png)
 
 ## EJERCICIO7
-![ejercicio7](img/7.png)
+![ejercicio7](img/p7.png)
 
